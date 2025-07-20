@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "[ruby]": {
+    "editor.defaultFormatter": "castwide.rufo"
+  },
+  "[erb]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "rufo.useBundler": false,
+  "files.associations": {
+    "*.erb": "erb"
+  },
+  "prettier.prettierPath": "./node_modules/prettier"
+}
